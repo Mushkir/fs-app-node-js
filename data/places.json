@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Sigiriya",
+    "reason_for_fav": "Sigiriya is famous for its ancient rock fortress, which is a UNESCO World Heritage Site. \nIt is renowned for its stunning frescoes, ancient gardens, and impressive architecture dating back to the 5th century AD."
+  },
+  {
+    "id": 2,
+    "name": "Galle Fort",
+    "reason_for_fav": "Galle Fort is a well-preserved colonial-era fortification in Galle, Sri Lanka. \nIt is famous for its historical significance, architectural beauty, and scenic views of the Indian Ocean. \nIt's also a UNESCO World Heritage Site."
+  },
+  {
+    "id": 3,
+    "name": "Temple of the Tooth",
+    "reason_for_fav": "The Temple of the Tooth, located in Kandy, houses the sacred tooth relic of the Buddha. \nIt is one of the most important pilgrimage sites for Buddhists worldwide and a UNESCO World Heritage Site."
+  },
+  {
+    "id": 4,
+    "name": "Adam's Peak",
+    "reason_for_fav": "Adam's Peak, also known as Sri Pada, is a sacred mountain in central Sri Lanka. \nIt is famous for the 'Sri Pada' or 'sacred footprint' at its summit, which is revered by Buddhists, Hindus, Muslims, and Christians alike."
+  },
+  {
+    "id": 5,
+    "name": "Yala National Park",
+    "reason_for_fav": "Yala National Park is the most visited and second-largest national park in Sri Lanka. \nIt is famous for its diverse wildlife, including the highest concentration of leopards in the world, elephants, sloth bears, and a variety of bird species."
+  },
+  {
+    "id": 6,
+    "name": "Nuwara Eliya",
+    "reason_for_fav": "Nuwara Eliya is a picturesque hill station known as 'Little England' due to its colonial architecture, cool climate, and tea plantations. \nIt is famous for its scenic beauty, hiking trails, and as a popular retreat destination."
+  },
+  {
+    "id": 7,
+    "name": "Kandy",
+    "reason_for_fav": "Kandy, located in the central province of Sri Lanka, is famous for its cultural heritage, including the Temple of the Tooth, which houses the sacred tooth relic of the Buddha. \nIt is also known for its scenic beauty, vibrant festivals, and tea plantations."
+  }
+]
